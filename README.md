@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Esta aplicação é uma TODO List simples desenvolvida em Java, utilizando Spring Boot. O projeto também inclui configurações para Docker, Helm, e Kubernetes, permitindo uma fácil implantação e execução em ambientes locais.
+Esta aplicação é uma TODO List simples desenvolvida em html. O projeto também inclui configurações para Docker, Helm, e Kubernetes, permitindo uma fácil implantação e execução em ambientes locais.
 
 ## Pré-requisitos
 
