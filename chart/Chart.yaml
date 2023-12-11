@@ -1,0 +1,4 @@
+apiVersion: v2
+name: minha-aplicacao
+description: Uma aplicação TODO List para o trabalho de DevOps - UFLA
+version: 0.1.0
