@@ -18,7 +18,7 @@ Siga estes passos para executar a aplicação localmente:
 
 1. **Clonar o Repositório:**
    ```bash
-   git clone URL_DO_SEU_REPOSITORIO
+   git clone https://github.com/klebersalllum/trabdevops
    cd nome-do-repositorio
 
 2. **Compilar a Aplicação:**
@@ -27,12 +27,13 @@ Siga estes passos para executar a aplicação localmente:
 
 3. **Construir a Imagem Docker:**
 
-docker build -t kleberxyz/minha-aplicacao-todo-list .
-docker push kleberxyz/minha-aplicacao-todo-list:latest
+    docker build -t kleberxyz/minha-aplicacao-todo-list .
+
+    docker push kleberxyz/minha-aplicacao-todo-list:latest
 
 4. **Configurar Helm e Kubernetes:**
-Certifique-se de que o Helm e o Kubernetes estão configurados corretamente no seu sistema.
+    Certifique-se de que o Helm e o Kubernetes estão configurados corretamente no seu sistema.
 
 5. **Instalar o Helm Chart:**
-helm install nome-do-release .
+    helm install nome-do-release .
 
