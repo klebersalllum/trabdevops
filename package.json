@@ -1,0 +1,14 @@
+{
+    "name": "trabalhodevops",
+    "version": "1.0.0",
+    "description": "Descrição do projeto",
+    "main": "index.html",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Kleber Halley Sallum Guimaraes",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
